@@ -1,4 +1,5 @@
-#Voting Behavior Analysis (Canada) 
+# Voting Behavior Analysis (Canada) 
+
 ## Overview
 This project analyzes Canadian federal election data to examine the relationship between median income and voting patterns across electoral districts.
 
